@@ -99,7 +99,7 @@ var foodWidget = {
 }
 
 $.ajax({
-  url: "http://gamurar.ddns.net/slidesData.json",
+  url: "https://xylic-expiration.000webhostapp.com/slidesData.json",
   dataType: "json",
   success: function(data) {
     dishes = data.dishes;

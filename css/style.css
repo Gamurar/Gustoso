@@ -182,11 +182,6 @@ header .main-head .our-menu:hover {
 	max-height: 106px;
 	z-index: 3;
 }
-@media screen and (min-width: 1300px) {
-	.divider .vector-bread {
-		top: calc(-4vw - -30px);
-	}
-}
 /* Main page content */
 .main-page {
 	width: 100%;
@@ -216,7 +211,6 @@ header .main-head .our-menu:hover {
 /*Art of cakes*/
 .main-page .art-of-cakes {
 	background-image: url("../img/img-texture.png");
-	background-size: cover;
 	padding: 4rem 0;
 }
 
